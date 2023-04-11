@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\moira.sawyer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\moira.sawyer\\.nuget\\packages"
+    ]
+  }
+}

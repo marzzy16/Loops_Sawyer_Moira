@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Sawyer_Moira", "Loops_Sawyer_Moira.csproj", "{34BC738A-98D4-4C82-8400-A803A441CBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BC738A-98D4-4C82-8400-A803A441CBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BC738A-98D4-4C82-8400-A803A441CBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BC738A-98D4-4C82-8400-A803A441CBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BC738A-98D4-4C82-8400-A803A441CBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F9767D-AE6D-468E-AEB3-719BD69854DC}
+	EndGlobalSection
+EndGlobal

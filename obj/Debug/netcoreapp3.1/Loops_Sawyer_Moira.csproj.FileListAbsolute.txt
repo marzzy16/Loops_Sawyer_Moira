@@ -1,0 +1,14 @@
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.exe
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.deps.json
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.runtimeconfig.json
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.runtimeconfig.dev.json
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.dll
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\bin\Debug\netcoreapp3.1\Loops_Sawyer_Moira.pdb
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.csproj.AssemblyReference.cache
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.AssemblyInfoInputs.cache
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.AssemblyInfo.cs
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.csproj.CoreCompileInputs.cache
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.dll
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.pdb
+C:\Users\moira.sawyer\source\repos\Loops_Sawyer_Moira\obj\Debug\netcoreapp3.1\Loops_Sawyer_Moira.genruntimeconfig.cache
